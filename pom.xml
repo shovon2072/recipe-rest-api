@@ -11,7 +11,7 @@
 	<groupId>shovon.nnlife</groupId>
 	<artifactId>recipe</artifactId>
 	<version>0.0.2-SNAPSHOT</version>
-	<packaging>jar</packaging>
+	<packaging>war</packaging>
 	<name>recipe</name>
 	<description>Demo project for Spring Boot</description>
 
